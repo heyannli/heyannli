@@ -31,7 +31,6 @@
     🤩 Pronouns: I'm a Pansexual Witch and Gender fluid, so I don't care much what people call me_<br> 
   	⚡ Fun Fact: I like to learn magic tricks, but am not good at it_ <br>
     _____ <br>
-  	🪄 All challenges made from Mentor are also in my codepen <br>
   	<p align="center">________</p>
   	📫 anl.inocencio@gmail.com (não se acanhe pode vir falar comigo!) 
   
